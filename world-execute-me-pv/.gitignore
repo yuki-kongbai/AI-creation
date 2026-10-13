@@ -1,0 +1,16 @@
+# 你自己的输入（有版权：绝不提交）
+input/*
+!input/README.md
+!input/.gitkeep
+
+# 构建产物
+out/
+cache/
+__pycache__/
+*.pyc
+node_modules/
+
+# 成片与音频
+*.mp4
+*.mp3
+*.wav

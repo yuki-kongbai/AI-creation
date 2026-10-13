@@ -1,0 +1,4 @@
+{
+ "_note": "歌词 -> 形状。空 = 用她本人。",
+ "_source": "src/field.py 的 LYRIC_SHAPE 是同一份，改这里要同步"
+}
