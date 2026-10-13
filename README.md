@@ -6,7 +6,7 @@
 
 | 作品 | 说明 |
 |---|---|
-| [world.execute(me); PV](world-execute-me-pv/) | 用 Python 逐帧渲染的非官方同人 PV。左边是 DeepSeek Harness 的聊天窗口，右边是运行着她的那个世界 —— 一团会变形的点，和一段会满、会被删掉的上下文。2560×1440 / 24fps / 3:32 |
+| [world.execute(me); PV](world-execute-me-pv/) | 用 Python 逐帧渲染的非官方同人 PV。她本人就是右边那团 1400 个点 —— 歌词唱什么形状，点就走成什么形状。2560×1440 / 24fps / 3:32<br>▶ [B站 BV12XWF6gEqB](https://www.bilibili.com/video/BV12XWF6gEqB) |
 
 ---
 

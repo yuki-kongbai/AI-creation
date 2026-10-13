@@ -7,8 +7,15 @@
 ![preview](docs/preview.png)
 
 - **仓库**：https://github.com/yuki-kongbai/AI-creation
-- **成片**：（待补 —— 发布后填这里）
+- **成片**：[B站 BV12XWF6gEqB](https://www.bilibili.com/video/BV12XWF6gEqB)　（短链：<https://b23.tv/rqKZsl9>）
 - **技术规格**：2560×1440 / 24fps / 3:32
+
+## 先看片
+
+**[B站 · BV12XWF6gEqB](https://www.bilibili.com/video/BV12XWF6gEqB)**　（3:32 / 建议 1080p 以上）
+
+成片不在本仓库里 —— 它含 Mili 的版权音乐，不适合放进公开仓库。
+这里的代码可以从零把它渲出来。
 
 ## 这一版做了什么
 
